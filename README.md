@@ -12,7 +12,7 @@
 
 ## Background
 
-这是一个使用jekyll搭建的前端项目，以“小熊猫”为主题，注重简约、优雅。
+这是一个使用jekyll搭建的前端项目，以“小熊猫”为主题，注重简约、优雅。同时，本项目采用Google 开源项目代码规范。
 
 
 
@@ -68,4 +68,4 @@ $ jekyll serve
 
 ## License
 
-[MIT](LICENSE) © Richard Littauer
+[MIT](LICENSE) © 2021 vonynu
